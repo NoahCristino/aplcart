@@ -1,4 +1,5 @@
 TYPE	AUTHOR(S)	TITLE	ABSTRACT	YEAR	KEYWORDS
+(V) [Walton](https://optima-systems.co.uk/meet-the-team/jonners-walton/) [Quines – A Puzzling Programming Novelty](https://optima-systems.co.uk/quines-a-puzzling-programming-novelty/)		2020
 (V)	[Park](https://aplwiki.com/wiki/Richard_Park)	[Train Spotting in Dyalog APL](https://dyalog.tv/Webinar/?v=Enlh5qwwDuY)		2020	dyalog webinar tacit point free functional programming
 (V)	[Park](https://aplwiki.com/wiki/Richard_Park)	[Thinking in APL: Array-Oriented Solutions - Part 2](https://dyalog.tv/Webinar/?v=Qzwn6z3y0DA)	Several approaches to converting boolean location vectors to expansion vectors are explored	2020	data transformation black box loop first at operator laminate compress @ / \ ,[]
 (V)	[Park](https://aplwiki.com/wiki/Richard_Park)	[Thinking in APL: Array-Oriented Solutions - Part 1](https://dyalog.tv/Webinar/?v=myoK22rq1jk)	An introduction to APL thinking and array programming	2020	metzger programming heuristics value first then shape problems solving techniques algorithm translating translation
